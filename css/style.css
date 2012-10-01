@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=IM+Fell+English);
+body {
+  color: #111;
+  background-color: #EFEFEF;
+  text-shadow: 2px 1px 1px white; }
+
+h1 {
+  font-family: 'IM Fell English', serif;
+  font-size: 3em; }
+
+article {
+  font-family: Georgia, serif; }
+  article p {
+    border-left: 5px solid #DDD;
+    padding-left: 1em; }
+
+.container {
+  margin: auto;
+  width: 550px; }
